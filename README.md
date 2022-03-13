@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-    This is to me practice my basic html and css skills with a QR-code example from Frontend Mentor 
+    This is to help me practice my basic html and css skills with a QR-code example from Frontend Mentor 
 **Note: Not really responsive since it is not required.**
 
 ### Screenshot
